@@ -1,4 +1,4 @@
-import os.path,sys,logging
+import os.path,sys,logging 
 x= open("d:/kiran programming/attendance.txt","a")
 wd=0
 att={}
